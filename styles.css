@@ -92,7 +92,6 @@ ul {
     font-family: 'Roboto', sans-serif;
     font-size: 1.1rem;
     color: white;
-    text-align: left;
 }
 
 h2,.white{
@@ -174,8 +173,8 @@ a{
 }
 
 
-.section-3 photo{
-    justify-content: center;
+#photos{
+    justify-content: space-between;
 }}
 
 /* celular */
